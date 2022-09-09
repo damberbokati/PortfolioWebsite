@@ -5,9 +5,9 @@ This website contains a detailed information about me
 This build with HTML, CSS, & JavaScript
    
    Where:
-                HTML = 
-                CSS  =
-          JavaScript =
+                HTML = 49%
+                CSS  = 44.6%
+          JavaScript = 6.4%
 
 The home page looks like This: 
 
