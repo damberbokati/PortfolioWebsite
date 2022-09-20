@@ -2,7 +2,7 @@
 
 This website contains a detailed information about me
 
-This build with HTML, CSS, & JavaScript
+This is build with HTML, CSS, & JavaScript
    
    Where:
                 HTML = 49%
