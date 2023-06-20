@@ -16,7 +16,7 @@
 }
 .about, .skills, .experience, .project, .contact, footer{
     font-family: 'Poppins', sans-serif;
-    margin-top: 8rem;
+    margin-top: 6rem;
 }
 .about .about-content,
 .skills .skills-content,
