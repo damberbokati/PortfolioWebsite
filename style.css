@@ -6,6 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+    
 }
 
 .max-width{
@@ -14,6 +15,7 @@
     margin: auto;
     
 }
+
 .about, .skills, .experience, .project, .contact, footer{
     font-family: 'Poppins', sans-serif;
     margin-top: 6rem;
